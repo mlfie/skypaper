@@ -34,3 +34,4 @@ end
 
 # add fujisaki
 gem 'therubyracer'
+gem 'json'

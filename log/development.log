@@ -16,3 +16,430 @@ Started GET "/rails/info/properties" for 127.0.0.1 at 2012-01-15 20:58:58 +0900
   Processing by Rails::InfoController#properties as */*
 Rendered inline template (17.7ms)
 Completed 200 OK in 109ms (Views: 108.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2012-01-17 00:41:39 +0900
+
+ActiveRecord::ConnectionNotEstablished (ActiveRecord::ConnectionNotEstablished):
+  
+
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.9ms)
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (10.5ms)
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (33.6ms)
+
+
+Started GET "/rails/info/properties" for 127.0.0.1 at 2012-01-17 00:41:44 +0900
+
+ActiveRecord::ConnectionNotEstablished (ActiveRecord::ConnectionNotEstablished):
+  
+
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.7ms)
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.3ms)
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (6.1ms)
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2012-01-17 00:44:27 +0900
+
+ActiveRecord::ConnectionNotEstablished (ActiveRecord::ConnectionNotEstablished):
+  
+
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.8ms)
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (9.8ms)
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (30.8ms)
+
+
+Started GET "/rails/info/properties" for 127.0.0.1 at 2012-01-17 00:44:28 +0900
+
+ActiveRecord::ConnectionNotEstablished (ActiveRecord::ConnectionNotEstablished):
+  
+
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.7ms)
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.2ms)
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (6.0ms)
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2012-01-17 00:51:36 +0900
+
+ActiveRecord::ConnectionNotEstablished (ActiveRecord::ConnectionNotEstablished):
+  
+
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.9ms)
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (10.1ms)
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (31.7ms)
+
+
+Started GET "/rails/info/properties" for 127.0.0.1 at 2012-01-17 00:51:39 +0900
+
+ActiveRecord::ConnectionNotEstablished (ActiveRecord::ConnectionNotEstablished):
+  
+
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.9ms)
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.3ms)
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (6.6ms)
+
+
+Started GET "/rails/info/properties" for 127.0.0.1 at 2012-01-17 00:51:47 +0900
+
+ActiveRecord::ConnectionNotEstablished (ActiveRecord::ConnectionNotEstablished):
+  
+
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.8ms)
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.4ms)
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (6.4ms)
+
+
+Started GET "/rails/info/properties" for 127.0.0.1 at 2012-01-17 00:51:48 +0900
+
+ActiveRecord::ConnectionNotEstablished (ActiveRecord::ConnectionNotEstablished):
+  
+
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.9ms)
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.3ms)
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (6.4ms)
+
+
+Started GET "/rails/info/properties" for 127.0.0.1 at 2012-01-17 00:51:50 +0900
+
+ActiveRecord::ConnectionNotEstablished (ActiveRecord::ConnectionNotEstablished):
+  
+
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.9ms)
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.4ms)
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (6.6ms)
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2012-01-17 00:53:38 +0900
+
+ActiveRecord::ConnectionNotEstablished (ActiveRecord::ConnectionNotEstablished):
+  
+
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.9ms)
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (10.1ms)
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (32.5ms)
+
+
+Started GET "/rails/info/properties" for 127.0.0.1 at 2012-01-17 00:53:41 +0900
+
+ActiveRecord::ConnectionNotEstablished (ActiveRecord::ConnectionNotEstablished):
+  
+
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.9ms)
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.4ms)
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (6.7ms)
+
+
+Started GET "/rails/info/properties" for 127.0.0.1 at 2012-01-17 00:53:48 +0900
+
+ActiveRecord::ConnectionNotEstablished (ActiveRecord::ConnectionNotEstablished):
+  
+
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.0ms)
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.4ms)
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (6.6ms)
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2012-01-17 01:00:01 +0900
+
+ActiveRecord::ConnectionNotEstablished (ActiveRecord::ConnectionNotEstablished):
+  
+
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.9ms)
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (10.3ms)
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (31.4ms)
+
+
+Started GET "/rails/info/properties" for 127.0.0.1 at 2012-01-17 01:00:05 +0900
+
+ActiveRecord::ConnectionNotEstablished (ActiveRecord::ConnectionNotEstablished):
+  
+
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.1ms)
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.4ms)
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (7.0ms)
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2012-01-17 01:01:12 +0900
+
+ActiveRecord::ConnectionNotEstablished (ActiveRecord::ConnectionNotEstablished):
+  
+
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.9ms)
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (11.1ms)
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (32.8ms)
+
+
+Started GET "/rails/info/properties" for 127.0.0.1 at 2012-01-17 01:01:15 +0900
+
+ActiveRecord::ConnectionNotEstablished (ActiveRecord::ConnectionNotEstablished):
+  
+
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.8ms)
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.4ms)
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (6.2ms)
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2012-01-17 01:02:03 +0900
+
+ActiveRecord::ConnectionNotEstablished (ActiveRecord::ConnectionNotEstablished):
+  
+
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.9ms)
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (10.1ms)
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (31.0ms)
+
+
+Started GET "/rails/info/properties" for 127.0.0.1 at 2012-01-17 01:02:05 +0900
+
+ActiveRecord::ConnectionNotEstablished (ActiveRecord::ConnectionNotEstablished):
+  
+
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.8ms)
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.3ms)
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (6.3ms)
+
+
+Started GET "/rails/info/properties" for 127.0.0.1 at 2012-01-17 01:02:07 +0900
+
+ActiveRecord::ConnectionNotEstablished (ActiveRecord::ConnectionNotEstablished):
+  
+
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.9ms)
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.3ms)
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (6.5ms)
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2012-01-17 01:05:23 +0900
+
+ActiveRecord::ConnectionNotEstablished (ActiveRecord::ConnectionNotEstablished):
+  
+
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.9ms)
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (10.2ms)
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (31.9ms)
+
+
+Started GET "/rails/info/properties" for 127.0.0.1 at 2012-01-17 01:05:26 +0900
+
+ActiveRecord::ConnectionNotEstablished (ActiveRecord::ConnectionNotEstablished):
+  
+
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.8ms)
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.4ms)
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (6.6ms)
+
+
+Started GET "/rails/info/properties" for 127.0.0.1 at 2012-01-17 01:05:27 +0900
+
+ActiveRecord::ConnectionNotEstablished (ActiveRecord::ConnectionNotEstablished):
+  
+
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.1ms)
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.4ms)
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (7.4ms)
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2012-01-17 01:12:56 +0900
+Served asset /rails.png - 404 Not Found (2ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/rails.png"):
+  
+
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (16.8ms)
+
+
+Started GET "/rails/info/properties" for 127.0.0.1 at 2012-01-17 01:12:59 +0900
+  [1m[36m (6.3ms)[0m  [1mSELECT `schema_migrations`.`version` FROM `schema_migrations` [0m
+  Processing by Rails::InfoController#properties as */*
+Rendered inline template (0.5ms)
+Completed 200 OK in 5ms (Views: 4.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2012-01-17 01:14:07 +0900
+Served asset /rails.png - 404 Not Found (2ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/rails.png"):
+  
+
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (19.9ms)
+
+
+Started GET "/rails/info/properties" for 127.0.0.1 at 2012-01-17 01:14:10 +0900
+  [1m[36m (0.3ms)[0m  [1mSELECT `schema_migrations`.`version` FROM `schema_migrations` [0m
+  Processing by Rails::InfoController#properties as */*
+Rendered inline template (0.5ms)
+Completed 200 OK in 6ms (Views: 4.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/rails/info/properties" for 127.0.0.1 at 2012-01-17 01:14:11 +0900
+  Processing by Rails::InfoController#properties as */*
+Rendered inline template (0.5ms)
+Completed 200 OK in 2ms (Views: 1.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/rails/info/properties" for 127.0.0.1 at 2012-01-17 01:14:13 +0900
+  Processing by Rails::InfoController#properties as */*
+Rendered inline template (0.6ms)
+Completed 200 OK in 2ms (Views: 1.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2012-01-17 01:15:33 +0900
+Served asset /rails.png - 404 Not Found (2ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/rails.png"):
+  
+
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (20.1ms)
+
+
+Started GET "/rails/info/properties" for 127.0.0.1 at 2012-01-17 01:15:35 +0900
+  [1m[36m (0.3ms)[0m  [1mSELECT `schema_migrations`.`version` FROM `schema_migrations` [0m
+  Processing by Rails::InfoController#properties as */*
+Rendered inline template (0.5ms)
+Completed 200 OK in 5ms (Views: 4.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/rails/info/properties" for 127.0.0.1 at 2012-01-17 01:15:36 +0900
+  Processing by Rails::InfoController#properties as */*
+Rendered inline template (0.6ms)
+Completed 200 OK in 2ms (Views: 1.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2012-01-17 01:15:58 +0900
+Served asset /rails.png - 404 Not Found (2ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/rails.png"):
+  
+
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (17.3ms)
+
+
+Started GET "/rails/info/properties" for 127.0.0.1 at 2012-01-17 01:16:00 +0900
+  [1m[36m (0.3ms)[0m  [1mSELECT `schema_migrations`.`version` FROM `schema_migrations` [0m
+  Processing by Rails::InfoController#properties as */*
+Rendered inline template (0.5ms)
+Completed 200 OK in 5ms (Views: 4.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/rails/info/properties" for 127.0.0.1 at 2012-01-17 01:16:01 +0900
+  Processing by Rails::InfoController#properties as */*
+Rendered inline template (0.6ms)
+Completed 200 OK in 2ms (Views: 1.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2012-01-17 01:16:49 +0900
+Served asset /rails.png - 404 Not Found (2ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/rails.png"):
+  
+
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (18.5ms)
+
+
+Started GET "/rails/info/properties" for 127.0.0.1 at 2012-01-17 01:16:51 +0900
+  [1m[36m (0.3ms)[0m  [1mSELECT `schema_migrations`.`version` FROM `schema_migrations` [0m
+  Processing by Rails::InfoController#properties as */*
+Rendered inline template (0.5ms)
+Completed 200 OK in 6ms (Views: 5.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2012-01-17 01:17:58 +0900
+Served asset /rails.png - 404 Not Found (2ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/rails.png"):
+  
+
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (18.0ms)
+
+
+Started GET "/rails/info/properties" for 127.0.0.1 at 2012-01-17 01:18:00 +0900
+  [1m[36m (0.3ms)[0m  [1mSELECT `schema_migrations`.`version` FROM `schema_migrations` [0m
+  Processing by Rails::InfoController#properties as */*
+Rendered inline template (0.5ms)
+Completed 200 OK in 5ms (Views: 4.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2012-01-17 01:18:21 +0900
+Served asset /rails.png - 404 Not Found (2ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/rails.png"):
+  
+
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/rails/info/properties" for 127.0.0.1 at 2012-01-17 01:18:23 +0900
+  Processing by Rails::InfoController#properties as */*
+Rendered inline template (0.5ms)
+Completed 200 OK in 2ms (Views: 1.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2012-01-17 01:19:04 +0900
+Served asset /rails.png - 404 Not Found (2ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/rails.png"):
+  
+
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (18.3ms)
+
+
+Started GET "/rails/info/properties" for 127.0.0.1 at 2012-01-17 01:19:06 +0900
+  [1m[36m (0.3ms)[0m  [1mSELECT `schema_migrations`.`version` FROM `schema_migrations` [0m
+  Processing by Rails::InfoController#properties as */*
+Rendered inline template (0.5ms)
+Completed 200 OK in 6ms (Views: 5.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/rails/info/properties" for 127.0.0.1 at 2012-01-17 01:19:07 +0900
+  Processing by Rails::InfoController#properties as */*
+Rendered inline template (0.5ms)
+Completed 200 OK in 1ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2012-01-17 01:19:49 +0900
+
+Mysql2::Error (Access denied for user 'root'@'localhost' (using password: YES)):
+  
+
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.1ms)
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (10.6ms)
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (33.3ms)
+
+
+Started GET "/rails/info/properties" for 127.0.0.1 at 2012-01-17 01:19:51 +0900
+
+Mysql2::Error (Access denied for user 'root'@'localhost' (using password: YES)):
+  
+
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.9ms)
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.5ms)
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (6.7ms)
+
+
+Started GET "/rails/info/properties" for 127.0.0.1 at 2012-01-17 01:19:55 +0900
+
+Mysql2::Error (Access denied for user 'root'@'localhost' (using password: YES)):
+  
+
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.9ms)
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.4ms)
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (6.6ms)
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2012-01-17 01:26:37 +0900
+
+Mysql2::Error (Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)):
+  
+
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.3ms)
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (10.9ms)
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (35.1ms)
+
+
+Started GET "/rails/info/properties" for 127.0.0.1 at 2012-01-17 01:26:39 +0900
+
+Mysql2::Error (Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)):
+  
+
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.9ms)
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.5ms)
+Rendered /Users/fujisaki/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (7.3ms)

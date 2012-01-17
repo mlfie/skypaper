@@ -8,17 +8,20 @@
 #
 # And be sure to use new-style password hashing:
 #   http://dev.mysql.com/doc/refman/5.0/en/old-client.html
+<% 
+require 'json'
+env = JSON.parse(File.read('/home/dotcloud/environment.json'))
+%>
 development:
   adapter: mysql2
   encoding: utf8
   reconnect: false
   database: skypaper_development
-  host: skypaper-mlfie.dotcloud.com
-  port: 21373
   pool: 5
-  username: root
-  password: mWQEMEcIIKwU8bLs1Pfr
-  #socket: /var/lib/mysql/mysql.sock
+  host: <%= env['DOTCLOUD_DATA_MYSQL_HOST'] %>
+  port: <%= env['DOTCLOUD_DATA_MYSQL_PORT'] %>
+  username: <%= env['DOTCLOUD_DATA_MYSQL_LOGIN'] %>
+  password: <%= env['DOTCLOUD_DATA_MYSQL_PASSWORD'] %>
 
 # Warning: The database defined as "test" will be erased and
 # re-generated from your development database when you run "rake".
@@ -28,21 +31,19 @@ test:
   encoding: utf8
   reconnect: false
   database: skypaper_test
-  host: skypaper-mlfie.dotcloud.com
-  port: 21373
   pool: 5
-  username: root
-  password: mWQEMEcIIKwU8bLs1Pfr
-  #socket: /var/lib/mysql/mysql.sock
+  host: <%= env['DOTCLOUD_DATA_MYSQL_HOST'] %>
+  port: <%= env['DOTCLOUD_DATA_MYSQL_PORT'] %>
+  username: <%= env['DOTCLOUD_DATA_MYSQL_LOGIN'] %>
+  password: <%= env['DOTCLOUD_DATA_MYSQL_PASSWORD'] %>
 
 production:
   adapter: mysql2
   encoding: utf8
   reconnect: false
   database: skypaper_production
-  host: skypaper-mlfie.dotcloud.com
-  port: 21373
   pool: 5
-  username: root
-  password: mWQEMEcIIKwU8bLs1Pfr
-  #socket: /var/lib/mysql/mysql.sock
+  host: <%= env['DOTCLOUD_DATA_MYSQL_HOST'] %>
+  port: <%= env['DOTCLOUD_DATA_MYSQL_PORT'] %>
+  username: <%= env['DOTCLOUD_DATA_MYSQL_LOGIN'] %>
+  password: <%= env['DOTCLOUD_DATA_MYSQL_PASSWORD'] %>
