@@ -1,12 +1,20 @@
-# Don't put *.swp, *.bak, etc here; those belong in a global ~/.gitignore.
-# Check out http://help.github.com/ignore-files/ for how to set that up.
+# from
+# https://github.com/github/gitignore/blob/master/Rails.gitignore
+#
+*.rbc
+*.sassc
+.sass-cache
+capybara-*.html
+.rspec
+/.bundle
+/vendor/bundle
+/log/*
+/tmp/*
+/db/*.sqlite3
+/public/system/*
+/coverage/
+/spec/tmp/*
+**.orig
+rerun.txt
+pickle-email-*.html
 
-.bundle
-db/*.sqlite3*
-log/*.log
-*.log
-tmp/**/*
-tmp/*
-*.swp
-*~
-.DS_Store
